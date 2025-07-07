@@ -1,0 +1,5 @@
+/home/oualid-boudemagh/Bureau/Cadmium_projects/cadmium_v2/example/stm32_motion/build/CMakeFiles/edit_cache.dir
+/home/oualid-boudemagh/Bureau/Cadmium_projects/cadmium_v2/example/stm32_motion/build/CMakeFiles/rebuild_cache.dir
+/home/oualid-boudemagh/Bureau/Cadmium_projects/cadmium_v2/example/stm32_motion/build/main/CMakeFiles/stm32_rt.dir
+/home/oualid-boudemagh/Bureau/Cadmium_projects/cadmium_v2/example/stm32_motion/build/main/CMakeFiles/edit_cache.dir
+/home/oualid-boudemagh/Bureau/Cadmium_projects/cadmium_v2/example/stm32_motion/build/main/CMakeFiles/rebuild_cache.dir
