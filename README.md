@@ -3,7 +3,7 @@ This project is a DEVS-based example running on an STM32H743ZI2 development boar
 
 ## Features
 
-- Real-time CO₂ and temperature monitoring
+- Real-time motion monitoring
 - Implemented using the DEVS formalism with Cadmium
 - Runs on STM32H743ZI2 using ARM toolchain
 
@@ -24,9 +24,9 @@ sudo apt install gcc-arm-none-eabi
 ## Wiring and running 
 1. **Wirning**:
 
-### MG-811 – CO₂ Sensor (Analog Output)
+### PIR motion sensor  (Digital Output)
 
-| Signal | MG-811 Pin | STM32 Pin Example | Notes                                  |
+| Signal | PIR Pin    | STM32 Pin Example | Notes                                  |
 |--------|------------|-------------------|--------------------------------------- |
 | VCC    | V+         | 5V                | Requires stable 5V supply              |
 | GND    | GND        | GND               | Common ground                          |
